@@ -1,6 +1,5 @@
 import pandas as pd
 import functions
-import sys
 
 # import warnings filter
 from warnings import simplefilter

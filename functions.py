@@ -43,7 +43,7 @@ def extract_value(df, field_name, nested_field, new_col):
 
 
 def combined_attributes( row, c_list):
-    """ Concatenate list of columns
+    """ Concatenate list of columns in dataframe
     Args:
         row(string): row
         c_list (list): list of columns to combined
