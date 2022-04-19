@@ -7,8 +7,7 @@ Secondary script:
 functions.py
 
 Data Input:
-tmdb_5000_credits.csv
-tmdb_5000_movies.csv
+tmdb_5000_credits.csv and tmdb_5000_movies.csv
 
 
 Recomendation:
