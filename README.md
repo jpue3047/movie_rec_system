@@ -1,3 +1,4 @@
+Build a machine learning algorithm to recomend n movies based on a movie that user likes. Recomendation Systems will create a similarity matrix based on cosine distance for relevants movie features : Genre, Keyword, Cast, and Director.
 
 # Scripts
 
